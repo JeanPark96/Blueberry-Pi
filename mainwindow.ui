@@ -27,7 +27,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../Downloads/preview.png</pixmap>
+     <pixmap>blueberry_icon.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
