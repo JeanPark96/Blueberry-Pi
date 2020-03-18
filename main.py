@@ -1,5 +1,15 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+# Adapted from www.linuxuser.co.uk/tutorials/emulate-a-bluetooth-keyboard-with-the-raspberry-pi
+# Applied YAPTB Bluetooth keyboard emulation service to PyQt5
+#
+# Lubomir Rintel <lkundrak@v3.sk>
+# License: GPL
+#
+# Ported to a Python module by Liam Fraser.
+#
+# Adpated from https://github.com/mlabviet/BL_keyboard_RPI/
+#
 import sys
 
 from PyQt5 import QtWidgets
